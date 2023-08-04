@@ -1,0 +1,62 @@
+[
+    {
+        "id": "payEnrollmentFee",
+        "description": "Pay your enrollment fee",
+        "dueDate": "7/13/23"
+    },
+    {
+        "id": "acceptFinAid",
+        "description": "Accept your financial aid package (if applicable)",
+        "dueDate": "7/22/23"
+    },
+    {
+        "id": "registerAdvising",
+        "description": "Register for an Academic Advising & Course Enrollment session",
+        "dueDate": "8/6/23"
+    },
+    {
+        "id": "payEnrollmentFee",
+        "description": "Pay your enrollment fee",
+        "dueDate": "8/12/23"
+    },
+    {
+        "id": "activateEmail",
+        "description": "Activate your SCU email account",
+        "dueDate": "8/30/23"
+    },
+    {
+        "id": "housingDeposit",
+        "description": "Submit your housing deposit",
+        "dueDate": "8/30/23"
+    },
+    {
+        "id": "submit_scores",
+        "description": "Submit your AP scores, IB credit, and University of Cambridge International exams",
+        "dueDate": "8/30/23"
+    },
+    {
+        "id": "submitFerpa",
+        "description": "Register for an Academic Advising & Course Enrollment session",
+        "dueDate": "8/30/23"
+    },
+    {
+        "id": "submitFerpa",
+        "description": "Submit the FERPA Release (if applicable)",
+        "dueDate": "9/30/23"
+    },
+    {
+        "id": "calcReadiness",
+        "description": "Take the Calculus Readiness Exam",
+        "dueDate": "9/13/23"
+    },
+    {
+        "id": "languagePlacement",
+        "description": "Take a Language Placement Exam",
+        "dueDate": "9/13/23"
+    },
+    {
+        "id": "techSeries",
+        "description": "Complete the online Technology for Academic Success Series",
+        "dueDate": "9/13/23"
+    }
+]

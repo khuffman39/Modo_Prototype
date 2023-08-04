@@ -1,0 +1,48 @@
+---
+kayla:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    id: 'kayla'
+    attributes:
+        firstName: 'Kayla'
+        email: 'khuffman@scu.edu'
+        lastName: 'Huffman'
+        name: 'Kayla Huffman'
+        photo: 'https://static.modolabs.com/xmodule_certification/user_images/cleric.png'
+        year: '1'
+        club: 'yes'
+ainhoa:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    id: 'ainhoa'
+    attributes:
+        id: 'ainhoa'
+        firstName: 'Ainhoa'
+        lastName: 'Ugarte'
+        email: 'augarte@scu.edu'
+        name: 'Ainhoa Ugarte'
+        photo: 'https://static.modolabs.com/xmodule_certification/user_images/cleric.png'
+        year: '1'
+        club: 'yes'
+rachel:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    id: 'rachel'
+    attributes:
+        firstName: 'Rachel'
+        lastName: 'Bauer'
+        email: 'rbauer@scu.edu'
+        name: 'Rachel Bauer'
+        photo: 'https://static.modolabs.com/xmodule_certification/user_images/cleric.png'
+        year: '2'
+        club: 'yes'
+sarah:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    id: 'sarah'
+    attributes:
+        firstName: 'Sarah'
+        lastName: 'Smith'
+        email: 'ssmith@scu.edu'
+        name: 'Sarah Smith'
+        photo: 'https://static.modolabs.com/xmodule_certification/user_images/cleric.png'
+        year: '2'
+        club: 'yes'
+
+---
